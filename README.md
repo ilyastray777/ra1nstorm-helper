@@ -1,5 +1,7 @@
 # ra1nstorm helper
 #### No official checkra1n support, no problem!
+####!!! WArning: 
+For correct operation, you must download https://github.com/foxlet/macOS-Simple-KVM and copy and paste from the / firmware folder all the existing files with the link to / opt / ra1nstorm / OSX-KVM / backup
 
 The ra1nstorm helper prepares an environment adequate for running checkra1n and exploiting your iOS device in a macOS virtual machine.
 
